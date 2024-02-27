@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Password change](README.md)
+* [Weblinks](README.md)

@@ -1,18 +1,7 @@
-# Password change
+---
+description: cv-cc.austria.local for administration
+---
 
-this clears failed logins
+# Weblinks
 
-userdbset -d -u auth\_failures
-
-userdbset -d -u prcoper auth\_failures&#x20;
-
-userdbset -d -u moboper auth\_failures&#x20;
-
-
-
-
-
-
-
-
-
+cv-ms.austria.local for history reports\
